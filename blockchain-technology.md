@@ -29,6 +29,8 @@ Hashing algorithms generate hashes that, by design, cannot be reversed engineer 
 
 ### What can blockchain technology provide in a real life application?
 
-### 
+- Removes any form of third-party authority.
+- Conduct business and making transactions on the internet free of any third-party authority all while mitigating the need to verify the legitimacy of a buyer/seller. **PROs / CONs**
+- Operate a platform, like a website, where decisions on feature implementation for exemple can be made collectively through veto. **PROs / CONs**
 
 ### Works cited

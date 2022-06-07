@@ -3,7 +3,7 @@
 ### Introduction
 This research aims to understand how authorization works with json web tokens and identify wether they are suitale in the context of Rently's backend. To achieve this, the research was done through a combination of *literary study*, *pro and con compariosons*, and *available product analysis*.
 
-### Research questions
+At the end of this research, we will have answered:
 1. What are Json Web Tokens?
 2. What are the benefits and disadvantages for using them?
 3. Are there any alternatives?
@@ -30,6 +30,8 @@ JWT=base64URLEncode(header)+’.’+base64URLEncode(payload)+’.’+base64URLEn
 ```
 
 According to [this](https://stackoverflow.com/questions/38725038/c-sharp-how-to-verify-signature-on-jwt-token), the third part of JWTs, the signature, is verified on the receiving endpoint by computing a signature like above and comparing it to the original signature from the request.
+
+### 2. What are the benefits and disadvantages for using them?
 
 ### Works cited
 [what are jwt](https://jwt.io/introduction)

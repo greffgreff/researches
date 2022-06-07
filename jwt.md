@@ -1,5 +1,7 @@
 # Json Web Token
 
+<br />
+
 ### Introduction
 This research aims to understand how authorization works with json web tokens and identify wether they are suitale in the context of Rently's backend. To achieve this, the research was done through a combination of *literary study*, *pro and con compariosons*, and *available product analysis*.
 
@@ -8,6 +10,8 @@ At the end of this research, we will have answered:
 2. What are the benefits and disadvantages for using them?
 3. Are there any alternatives?
 4. Are JWTs suitable for Rently?
+
+<br />
 
 ### 1. What are Json Web Tokens?
 According to [jwt.io](https://jwt.io/introduction), JWT aim to make the transfer of data more secure:
@@ -34,6 +38,8 @@ JWT=base64URLEncode(header)+’.’+base64URLEncode(payload)+’.’+base64URLEn
 
 According to [this](https://stackoverflow.com/questions/38725038/c-sharp-how-to-verify-signature-on-jwt-token), the third part of JWTs, the signature, is verified on the receiving endpoint by computing a signature like above and comparing it to the original signature from the request.
 
+<br />
+
 ### 2. What are the benefits and disadvantages for using them?
 
 #### Pros
@@ -50,6 +56,8 @@ According to [fusionauth.com](https://fusionauth.io/learn/expert-advice/tokens/p
 - All services that wish to verify JWTs (signed with HMAC algorithms specifically) must have a secret stored somewhere and so is less secure.
 - JWTs have a fixed expiration date and time. Once a session is terminated (e.g. user logging out), a JWT could still be valid and could be used to forge requests.
 
+<br />
+
 ### 3. Are there any alternatives?
 In the context of session management and authorization, sessions cookies are by far the most widespread.
 
@@ -58,8 +66,12 @@ Session cookies are a piece of string that a server can associate to a user/clie
 According to [medium.com](https://medium.com/@prashantramnyc/difference-between-session-cookies-vs-jwt-json-web-tokens-for-session-management-4be67d2f066e), a session cookie is generated on the server and stores a session's information on a dedicated database, as opposed to a client's device in an encrypted JWT.
 > In case of the session cookie based approach, the sessionId does not contain any userId information, but is a random string generated and signed by the “secret key”. The sessionId is then saved within a sessionDB.
 
+<br />
+
 ### 4. Are JWTs suitable for Rently?
 Given that Rently is a project with no budget and limited time, JWTs are perfectly suitable for it for session management. Unlike alternatives, the implementation of JWTs within the project would require much less development time. Since Rently already operates multiple services deployed on different SaaP, configuring a connection to a database on all services requires more development time. Additionally, no dedicated database is needed to facilitate session cookies for example.
+
+<br />
 
 ### Works cited
 [JWTs in essence](https://jwt.io/introduction) &nbsp; &nbsp;

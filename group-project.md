@@ -13,7 +13,6 @@ Frontend predominantly. Offset my lack in backend dev with IP, where I built a R
 
 ### Full-stack
 The project is a full-stack application. The frontend uses the popular ReactJS framework in javascript and the backend, ASP in C#. While the frontend handles the POS, the KDS, and the IMS combined, the backend handles CRUD functionality on a MySQL database in a RESTful manner. Architecture diagram of the system the team built:
-
 ![architecture](https://i.imgur.com/RQ64cmJ.png)
 
 The frontend was developed in a way that is common in the industry, where blocks of UI are decomposed into smaller and reusable React components. The frontend is deployed on a Firebase instance and can be accessed though [here](https://hummus.tycho.dev/).
@@ -36,20 +35,18 @@ You design and build a full stack application using commonly accepted front end 
 > Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
 ## LO7: Business processes
-> Simple: predominantly sequential processes with one or two alternative paths.
-> Relate: understanding the relationships between the process and software.
-
 After careful consultation with the product owners, we established that the most important aspect of the solution is to revamp the conventional flow of ordering food at a restaurant with hardcover menus.
 
 Below is a diagram of this flow. The interactions takes place between the waiter and the customer:
 ![ordering food](https://i.imgur.com/4RyGduE.jpg)
+> Note that the diagram shows waiters need to wait for customers to chose. Conversely, customer may also wait for waiters once ready, though this is not shown on the diagram.
 
 With the input of the client, we developed the system in such a way that some bottlenecks such as waiting time and the need for a waiter are almost entirely removed. Below is our proposed flow of ordering food using our system:
 ![ordering food with system](https://i.imgur.com/ROW0Dr3.jpg)
 
-The new flow gives not only the customer a lot more freedom and ease in ordering, but also frees waiters for other takes. The clients specifically wished for waiters to still be part of the process for greeting customers. No longer are orders needed to be written down by a waiter and brought to the kitchen on paper. Placed orders are immediately redirected to the kitchen.
+The new flow gives not only the customer a lot more freedom and ease in ordering, but also frees waiters for other takes. The clients specifically wished for waiters to still be part of the process for greeting customers. No longer are orders needed to be written down by a waiter and brought to the kitchen on paper. Placed orders are immediately redirected to the kitchen, where they are managed digitally.
 
-Futhermore, along side placing orders, payments 
+Futhermore, along side placing orders, the payment process has also been rethought. The conventional flow 
 
 ## LO8: Professional
 > Professional manner:

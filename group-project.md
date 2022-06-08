@@ -27,7 +27,9 @@ You design and build a full stack application using commonly accepted front end 
 ## LO6: Requirements and Design
 > Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
-Given that this project was conducted using Agile Scrum, requirements may change and may be added according to feedback and progress of the project. On multiple occasions I had the opportunity with the team to formulate prototypes for requirements that needed rethinking for the client. One such occasion   
+Given that this project was conducted using Agile Scrum, requirements may change and may be added according to feedback and progress of the project. There were times where I had the opportunity with the team to formulate prototypes for requirements that needed rethinking for the client. 
+
+For instance, one such occasion presented itself when customer session management need implementation. In an exchange email, we discussed...
 
 ## LO7: Business processes
 After careful consultation with the product owners, we established that the most important aspect of the solution is to revamp the conventional flow of ordering food at a restaurant with hardcover menus.

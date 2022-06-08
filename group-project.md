@@ -39,6 +39,18 @@ You design and build a full stack application using commonly accepted front end 
 > Simple: predominantly sequential processes with one or two alternative paths.
 > Relate: understanding the relationships between the process and software.
 
+After careful consultation with the product owners, we established that the most important aspect of the solution is to revamp the conventional flow of ordering food at a restaurant with hardcover menus.
+
+Below is a diagram of this flow. The interactions takes place between the waiter and the customer:
+![ordering food](https://i.imgur.com/4RyGduE.jpg)
+
+With the input of the client, we developed the system in such a way that some bottlenecks such as waiting time and the need for a waiter are almost entirely removed. Below is our proposed flow of ordering food using our system:
+![ordering food with system](https://i.imgur.com/ROW0Dr3.jpg)
+
+The new flow gives not only the customer a lot more freedom and ease in ordering, but also frees waiters for other takes. The clients specifically wished for waiters to still be part of the process for greeting customers. No longer are orders needed to be written down by a waiter and brought to the kitchen on paper. Placed orders are immediately redirected to the kitchen.
+
+Futhermore, along side placing orders, payments 
+
 ## LO8: Professional
 > Professional manner:
 You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.

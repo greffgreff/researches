@@ -27,6 +27,8 @@ You design and build a full stack application using commonly accepted front end 
 ## LO6: Requirements and Design
 > Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
+Given that this project was conducted using Agile Scrum, requirements may change and may be added according to feedback and progress of the project. On multiple occasions I had the opportunity with the team to formulate prototypes for requirements that needed rethinking for the client. One such occasion   
+
 ## LO7: Business processes
 After careful consultation with the product owners, we established that the most important aspect of the solution is to revamp the conventional flow of ordering food at a restaurant with hardcover menus.
 
@@ -52,6 +54,3 @@ You develop software as a team effort according to a prescribed software methodo
 You  independently recognize and decide where your knowledge falls short to solve a software problem and communicate which new knowledge and skills you need to learn.
 
 Frontend predominantly. Offset my lack in backend dev with IP, where I built a RESTful API in Spring Boot.
-
-
-# Where mention emails?

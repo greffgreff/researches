@@ -7,11 +7,6 @@ IMS - Inventory management system, refers to the system where inventory of all i
 Frontend predominantly. Offset my lack in backend dev with IP, where I built a RESTful API in Spring Boot.
 
 ## LO1: Web Application
-
-### User-friendly
-> The goal of usability testing is to understand how real users interact with your website and make changes based on the results
-
-### Full-stack
 The project is a full-stack application. The frontend uses the popular ReactJS framework in javascript and the backend, ASP in C#. While the frontend handles the POS, the KDS, and the IMS combined, the backend handles CRUD functionality on a MySQL database in a RESTful manner. Architecture diagram of the system the team built:
 ![architecture](https://i.imgur.com/RQ64cmJ.png)
 

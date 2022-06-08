@@ -46,7 +46,12 @@ With the input of the client, we developed the system in such a way that some bo
 
 The new flow gives not only the customer a lot more freedom and ease in ordering, but also frees waiters for other takes. The clients specifically wished for waiters to still be part of the process for greeting customers. No longer are orders needed to be written down by a waiter and brought to the kitchen on paper. Placed orders are immediately redirected to the kitchen, where they are managed digitally.
 
-Futhermore, along side placing orders, the payment process has also been rethought. The conventional flow 
+Futhermore, along side placing orders, the payment process has also been rethought. The conventional flow dictates that a waiter must take payment from customers like so:
+![payment](https://i.imgur.com/sjIy4Yy.jpg)
+
+Using our solution, the payment no longer requires the interaction of a waiter nor does the need to pass payment in the form of cash or card needed by hand:
+![payment with system](https://i.imgur.com/JrTml8E.jpg)
+> Payment assurance was deemed out of scope for the project. Whether payments are honored by customers is not handled on the system as per the client. 
 
 ## LO8: Professional
 > Professional manner:

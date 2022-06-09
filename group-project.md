@@ -59,10 +59,6 @@ Using our solution, the payment no longer requires the interaction of a waiter n
 > Payment assurance was deemed out of scope for the project. Whether payments are honored by customers is not handled on the system as per the client. 
 
 ## LO8: Professional
-> Professional manner:
-You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.
-You  independently recognize and decide where your knowledge falls short to solve a software problem and communicate which new knowledge and skills you need to learn.
-
 Form the start, the work was divided amongst ourselves depending on our already extensive or limited knowledge on a particular field. The idea behind this is to ensure that everyone can work confortably on the group project and focus on the things we don't know on the individual project.
 
 Given that some team members had already worked on our choosen backend (ASP.NET) and that I felt must confortable working on the frontend (with ReactJS), I decided to work on it. 

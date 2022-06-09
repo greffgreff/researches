@@ -8,7 +8,12 @@
 <p>KDS - Kitchen display system, refers to the system where orders are displayed and be managed by ktichen staff</p>
 <p>IMS - Inventory management system, refers to the system where inventory of all ingredients are managed</p>
 
-## LO1: Web Application
+## Learning outcomes
+
+<details>
+  <summary>LO1: Web Application</summary>
+  <br />
+
 The project is a full-stack application. The frontend uses the popular ReactJS framework in javascript and the backend, ASP in C#. While the frontend handles the POS, the KDS, and the IMS combined, the backend handles CRUD functionality on a MySQL database in a RESTful manner. Architecture diagram of the system the team built:
 ![architecture](https://i.imgur.com/RQ64cmJ.png)
 
@@ -21,25 +26,49 @@ You design and build a full stack application using commonly accepted front end 
 Source code for the backend can be found [here](https://github.com/hummusteam/HummusApp).
 
 Source code for the frontend can be found [here](https://github.com/hummusteam/HummusFront).
+  
+</details>
 
-## LO3: Agile method
-> You are aware of most popular agile methods and their underlying agile principles. You are able to implement the process of your software project according to a chosen methodology.
 
-## LO5: Cultural differences and ethics
+<details>
+  <summary>LO3: Agile method</summary>
+  <br />
+
+  > You are aware of most popular agile methods and their underlying agile principles. You are able to implement the process of your software project according to a chosen methodology.
+  
+</details>
+
+
+<details>
+  <summary>LO5: Cultural differences and ethics</summary>
+  <br />
+
 > Recognize:  Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
 > 
 > Take into account:
 > - Adapt your communication, working, and behavior styles to work with other developers from different cultures; 
 > - Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work. 
 
-## LO6: Requirements and Design
+</details>
+
+
+<details>
+  <summary>LO6: Requirements and Design</summary>
+  <br />
+
 > Multipletypes of test techniques: You apply user acceptance testing and stakeholder feedback to validate the quality of the requirements. You evaluate the quality of the design (e.g., by testing or prototyping) taking into account the formulated quality properties like security and performance.
 
 Given that this project was conducted using Agile Scrum, requirements may change and may be added according to feedback and progress of the project. There were times where I had the opportunity with the team to formulate prototypes for requirements that needed rethinking for the client. 
 
 For instance, one such occasion presented itself when customer session management need implementation. In an exchange email, we discussed...
 
-## LO7: Business processes
+</details>
+
+
+<details>
+  <summary>LO7: Business processes</summary>
+  <br />
+
 After careful consultation with the product owners, we established that the most important aspect of the solution is to revamp the conventional flow of ordering food at a restaurant with hardcover menus.
 
 Below is a diagram of this flow. The interactions takes place between the waiter and the customer:
@@ -58,8 +87,14 @@ Using our solution, the payment no longer requires the interaction of a waiter n
 ![payment with system](https://i.imgur.com/JrTml8E.jpg)
 > Payment assurance was deemed out of scope for the project. Whether payments are honored by customers is not handled on the system as per the client. 
 
-## LO8: Professional
-Form the start, the work was divided amongst ourselves depending on our already extensive or limited knowledge on a particular field. The idea behind this is to ensure that everyone can work confortably on the group project and focus on the things we don't know on the individual project.
+</details>
+
+
+<details>
+  <summary>LO8: Professional</summary>
+  <br />
+
+From the start, the work was divided amongst ourselves depending on our already extensive or limited knowledge on a particular field. The idea behind this is to ensure that everyone can work confortably on the group project and focus on the things we don't know on the individual project.
 
 Given that some team members had already worked on our choosen backend (ASP.NET) and that I felt must confortable working on the frontend (with ReactJS), I decided to work on it. 
 
@@ -68,3 +103,5 @@ This also gave me the opportunity to help other members regarding frontend devel
 I worked exclusively on the frontend for the group project, however, communication between the frontend and the backend was tightly maintained all throughout the project in standups and standdowns. It is a fullstack application conducted in Agile Scrum afterall.
 
 > I offset my lack in backend developement in the group project with my individual project, where I spent most of my time building a restful API using Spring Boot.
+
+</details>

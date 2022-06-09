@@ -2,7 +2,7 @@
 
 ## About the project
 
-(how it works, brief)
+Upon arrival at a restaurant, customers are greeted by a waiter start a new session on the system and hands them a 4-digit PIN, a way to keep track of customers within the restaurant. Afterwards, customers are free to sit at any table they would like and can scan a QR code placed on the table. The QR code redirects to a digital menu after the PIN is entered. From there, customers can see and select dishes orgranized in categories, can place orders, view previous ones, and finally make payment through the system. 
 
 <p>POS - Point of service, refers to the digital menu with categories</p>
 <p>KDS - Kitchen display system, refers to the system where orders are displayed and be managed by ktichen staff</p>

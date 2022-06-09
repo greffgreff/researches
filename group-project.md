@@ -1,8 +1,12 @@
 # Group Project
 
-POS - Point of service, refers to the digital menu with categories
-KDS - Kitchen display system, refers to the system where orders are displayed and be managed by ktichen staff
-IMS - Inventory management system, refers to the system where inventory of all ingredients are managed   
+## About the group project?
+
+(how it works, brief)
+
+<p>POS - Point of service, refers to the digital menu with categories</p>
+<p>KDS - Kitchen display system, refers to the system where orders are displayed and be managed by ktichen staff</p>
+<p>IMS - Inventory management system, refers to the system where inventory of all ingredients are managed</p>
 
 ## LO1: Web Application
 The project is a full-stack application. The frontend uses the popular ReactJS framework in javascript and the backend, ASP in C#. While the frontend handles the POS, the KDS, and the IMS combined, the backend handles CRUD functionality on a MySQL database in a RESTful manner. Architecture diagram of the system the team built:
@@ -13,6 +17,10 @@ The frontend was developed in a way that is common in the industry, where blocks
 The backend relies on the Entity framework to simplify database-backend interactions though ORM. The backend is first containerized on Dockerhub and then deployed through a Digital Ocean instance.
 
 You design and build a full stack application using commonly accepted front end (Javascript-based framework) and back end techniques (e.g. Object Relational Mapping) choosing and implementing relevant communication protocols and addressing asynchronous communication issues.
+
+Source code for the backend can be found [here](https://github.com/hummusteam/HummusApp).
+
+Source code for the frontend can be found [here](https://github.com/hummusteam/HummusFront).
 
 ## LO3: Agile method
 > You are aware of most popular agile methods and their underlying agile principles. You are able to implement the process of your software project according to a chosen methodology.
@@ -55,4 +63,12 @@ Using our solution, the payment no longer requires the interaction of a waiter n
 You develop software as a team effort according to a prescribed software methodology and following team agreements. You are able to track your work progress and communicate your progress with the team.
 You  independently recognize and decide where your knowledge falls short to solve a software problem and communicate which new knowledge and skills you need to learn.
 
-Frontend predominantly. Offset my lack in backend dev with IP, where I built a RESTful API in Spring Boot.
+Form the start, the work was divided amongst ourselves depending on our already extensive or limited knowledge on a particular field. The idea behind this is to ensure that everyone can work confortably on the group project and focus on the things we don't know on the individual project.
+
+Given that some team members had already worked on our choosen backend (ASP.NET) and that I felt must confortable working on the frontend (with ReactJS), I decided to work on it. 
+
+This also gave me the opportunity to help other members regarding frontend development for their individual projects, including how to strucutre a project, best practices, etc. On multiple occasions, I made PRs to other group memebers in an attempt to help and improve their project's frontend. One such example can be found on [this PR](https://github.com/Sawaholding/RWS-FrontEnd/pull/7), where I refactor some code to follow conventions along side styling the project.
+
+I worked exclusively on the frontend for the group project, however, communication between the frontend and the backend was tightly maintained all throughout the project in standups and standdowns. It is a fullstack application conducted in Agile Scrum afterall.
+
+> I offset my lack in backend developement in the group project with my individual project, where I spent most of my time building a restful API using Spring Boot.

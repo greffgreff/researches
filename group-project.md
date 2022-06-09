@@ -43,7 +43,11 @@ From there, customers can see and select dishes orgranized in categories, can pl
   
   We settled on using shortcut.com to manage our project with user stories, epics, and smaller tasks. Throughout the project, the team and I closely followed and manage the our backlog on the platform. 
 
-  The project unfolded in a total of 5 sprints of a few weeks each. At the start of each new sprint, the development team and the product owners conducted formal meetings, where the team first showcases the the implementation of new features followed by the stakeholder's feedback. Meetings concluded with discussions about the planning of the next sprint.
+  The project unfolded in a total of 5 sprints of a few weeks each. At the start of each new sprint, the development team and the product owners conducted sprint reviews, where the team first showcases the the implementation of new features followed by the stakeholder's feedback. Reviews concluded with discussions about things that have been completed and things that still need attention for the next sprint.
+  
+  Scrum roles were defined at the beginning of the project to each memeber of the team, including scrum master, note takers, time keepers. Those roles were cycled between ourselves throughout the project. 
+  
+  Every project day, Mondays and Tuesdays, the team had standups, where team members took turn on the things he completed and what he has planned for the day.
   
   <br />  
 </details>

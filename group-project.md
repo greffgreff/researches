@@ -1,6 +1,6 @@
 # Group Project
 
-## About the group project?
+## About the project
 
 (how it works, brief)
 

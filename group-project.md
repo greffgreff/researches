@@ -49,6 +49,8 @@ From there, customers can see and select dishes orgranized in categories, can pl
   
   Every project day, Mondays and Tuesdays, the team had standups, where team members took turn on the things he completed and what he has planned for the day.
   
+https://www.atlassian.com/agile/scrum/standups
+  
   <br />  
 </details>
 

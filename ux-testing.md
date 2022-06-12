@@ -21,3 +21,5 @@ Data analysis : https://ictresearchmethods.nl/Data_analytics
 Usability test : https://ictresearchmethods.nl/Usability_testing
 
 Observation : https://ictresearchmethods.nl/Observation
+
+UX for IP : https://fhict.instructure.com/courses/12078/pages/ux-for-software-engineers-the-basics?module_item_id=749934

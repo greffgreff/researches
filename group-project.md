@@ -41,6 +41,15 @@ From there, customers can see and select dishes orgranized in categories, can pl
 
 > You are aware of most popular agile methods and their underlying agile principles. You are able to implement the process of your software project according to a chosen methodology.
   
+  Agile Scrum 
+  
+  What is agile? It embraces:
+  - Collaboration between the development team and between the dev team and the customer interactions
+  - Continous software dev
+  - Quickly respond to change in software requirements
+  
+  
+  
   We settled on using shortcut.com to manage our project with user stories, epics, and smaller tasks. Throughout the project, the team and I closely followed and manage the our backlog on the platform. 
 
   The project unfolded in a total of 5 sprints of a few weeks each. At the start of each new sprint, the development team and the product owners conducted sprint reviews, where the team first showcases the the implementation of new features followed by the stakeholder's feedback. Reviews concluded with discussions about things that have been completed and things that still need attention for the next sprint.

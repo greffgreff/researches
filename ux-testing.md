@@ -12,18 +12,28 @@ Hotjar, a tool made for tracking events (mouse clicks and movements) anonymously
 I asked a random selection of people to use the website freely. With the exception that they use the desktop version of the website, no prerequisite was asked. A total of 13 people tested the website, performing vaiours tasks from simply browsing listings to posting one themselves. Data was collected across the web pages.
 
 #### Home page
-Looking at the mouse movements 
+This page is the first shown to new users. It's purpose is to educate the user about the service. Although not much textual context is provided, visually, a marquee slider of random listings is displayed above and below a search bar.
 
-Mouse movements
+Looking at the mouse movements on the home page, people travelled consistantly across the entirety of the focus area and there are clear host spots in some areas. Unlike other pages where the spread is much smaller, a large spread shows that users are [relatively curious](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/d/1690/files/2017/01/MouseTracking_Personality_Preprint.pdf):
+
 ![mouse](https://i.imgur.com/38AUB0l.jpg)
 
-Mouse clicks
-![clicks](https://i.imgur.com/j5V6Owr.jpg)
+Around 18% of clicks were made on the "Lease something" button which means the design serves its purpose. Another 10% were made on the "Rently.io" logo (redirecting users to this page). A combined 16% were made on the navigation's "Search" button and on the search input and body's "Search" button. Perhaps shifting the users' attention from the logo by making it less prominant could allocate more clicks to the search options.
+
+> Datasets to all pages present under dataset directory [here](https://github.com/greffgreff/semester-content/tree/main/datasets).
+
+Curiously, 17% of clicks were made on the "meta" banner situated atop the main navigation bar, where the user's location, current date, and language are located. This is a clear design flaw as the meta banner is not intended to be interactive. The fact that almost 11% of those clicks were on the language icon (sourced from the user's browser locale) could suggest that users are interested in a translation. Additional exploratory in person research would be needed to verify this claim.
+
+
+
+### Conclusion
+Additional exploratory testing needed to validate some claims.
 
 ### Works cited
 
 [What is mouse tracking](https://bootcamp.uxdesign.cc/mouse-tracking-what-it-is-and-how-to-use-to-understand-user-behaviour-30180e6da44c)
 [Some mouse behavioural patterns](https://www.trymyui.com/blog/2016/10/28/mouse-movement-patterns-and-user-frustration/)
+[Mouse movement revealing personality](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/d/1690/files/2017/01/MouseTracking_Personality_Preprint.pdf)
 
 Data analysis : https://ictresearchmethods.nl/Data_analytics
 
@@ -32,3 +42,4 @@ Usability test : https://ictresearchmethods.nl/Usability_testing
 Observation : https://ictresearchmethods.nl/Observation
 
 UX for IP : https://fhict.instructure.com/courses/12078/pages/ux-for-software-engineers-the-basics?module_item_id=749934
+

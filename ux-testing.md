@@ -60,21 +60,26 @@ The login page is relatively straightfoward with only the central box with diffe
 However, much like before, 18% of the interaction occured on the meta navigation bar showing users' great intrest in it. Perhaps those that did not interact with it on the home page noticed it on the login page. Removing the meta navigation bar altogether from this page could draw attention elsewhere.
 
 #### Account page
+The account page does not have much implemented. Other than a "Delete" account button and the side tabs, nothing is functional. Given that this page is still very much a work in progress, no conclusion can be drawn just yet as the UI is likely to change:
+
+![](https://i.imgur.com/99hQuSZ.jpg)
 
 ### Conclusion
-Additional exploratory testing needed to validate some claims.
+From the unmonitored interations of users on the website, there are still a number of design improvements that can be made. While some things are made well on the design, other things need attention. A clear exemple of this is shown with the meta bar, where users expected it to be interactive while it is not meant to be. Other, smaller things such as adding a fullscreen mode for picture or redirecting users to Google maps with the address could be easily implemented. However, further exploratory research is needed to validate claims made in this research.
 
 ### Works cited
 
 [What is mouse tracking](https://bootcamp.uxdesign.cc/mouse-tracking-what-it-is-and-how-to-use-to-understand-user-behaviour-30180e6da44c)
+
 [Some mouse behavioural patterns](https://www.trymyui.com/blog/2016/10/28/mouse-movement-patterns-and-user-frustration/)
+
 [Mouse movement revealing personality](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/d/1690/files/2017/01/MouseTracking_Personality_Preprint.pdf)
 
-Data analysis : https://ictresearchmethods.nl/Data_analytics
+### DOT framework research methods relevant
+[Data analysis](https://ictresearchmethods.nl/Data_analytics)
 
-Usability test : https://ictresearchmethods.nl/Usability_testing
+[Usability test](https://ictresearchmethods.nl/Usability_testing)
 
-Observation : https://ictresearchmethods.nl/Observation
+[Observation](https://ictresearchmethods.nl/Observation)
 
-UX for IP : https://fhict.instructure.com/courses/12078/pages/ux-for-software-engineers-the-basics?module_item_id=749934
 

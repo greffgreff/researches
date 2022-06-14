@@ -38,13 +38,24 @@ Superimporsing the two images and looking at the hotspot in the search options a
 Given the following, the search page is achieves its goal of enticing users to make searches, though, some design changes could increase interaction to the search options. Automatically expending the search options could increase this.
 
 #### Listing page
+Each listing has its own dedicated page loaded dynamically on what is refered as the listing page. The listing page's function is to provide as much incite of the item for rent to the user. Much like the home page, user interaction was made an a large spread:
+
+![](https://i.imgur.com/bMkoB62.jpg)
+
+A hotspot of around 10% is present where, like the search page, an image is missing on the diagram. This reveals that a fullscreen mode for images could be a feature users may be interested in.
+
+10% to 15% of interaction occured around the text of the address just above the map under "Where can I find this" section. This text is not interactive. Users may have expected the address to open a link to google maps directly. 
+
+Finally, around 35% of the interaction occured around the dates in the first section and the description, showing kin interst from the user. Clicking the dates could open a section to visually show the dates on a calendar.
 
 #### Login page
 The login page is relatively straightfoward with only the central box with different social providers:
 
 ![](https://i.imgur.com/iAbBD5X.jpg)
 
-37% of users interacted with the Google provider. Being the first option, its position is already optimal. Had the most popular provider been another, the design would need to change accordingly. 20% of users interacted with the "Back" button redirecting to the home page, once again showing the effectiveness of the design. Wether users are willing to login or not is another matter, though, those that do not wish to login can quickly cycle back to the home page. 
+37% of users interacted with the Google provider. Being the first option, its position is already optimal. 9% of users chose the Twitter as a provider of chose compared to 5% with Facebook. It is best to switch the Twitter providers to the second spot and put Facebook on the thrid spot.
+
+20% of users interacted with the "Back" button redirecting to the home page, once again showing the effectiveness of the design. Wether users are willing to login or not is another matter, though, those that do not wish to login can quickly cycle back to the home page. 
 
 However, much like before, 18% of the interaction occured on the meta navigation bar showing users' great intrest in it. Perhaps those that did not interact with it on the home page noticed it on the login page. Removing the meta navigation bar altogether from this page could draw attention elsewhere.
 

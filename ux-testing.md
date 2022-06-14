@@ -16,7 +16,7 @@ This page is the first shown to new users. It's purpose is to educate the user a
 
 Looking at the mouse movements on the home page, people travelled consistantly across the entirety of the focus area and there are clear host spots in some areas. Unlike other pages where the spread is much smaller, a large spread shows that users are [relatively curious](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/d/1690/files/2017/01/MouseTracking_Personality_Preprint.pdf):
 
-![mouse](https://i.imgur.com/38AUB0l.jpg)
+![](https://i.imgur.com/38AUB0l.jpg)
 
 Around 18% of clicks were made on the "Lease something" button which means the design serves its purpose. Another 10% were made on the "Rently.io" logo (redirecting users to this page). A combined 16% were made on the navigation's "Search" button and on the search input and body's "Search" button. Perhaps shifting the users' attention from the logo by making it less prominant could allocate more clicks to the search options.
 
@@ -24,7 +24,31 @@ Around 18% of clicks were made on the "Lease something" button which means the d
 
 Curiously, 17% of clicks were made on the "meta" banner situated atop the main navigation bar, where the user's location, current date, and language are located. This is a clear design flaw as the meta banner is not intended to be interactive. The fact that almost 11% of those clicks were on the language icon (sourced from the user's browser locale) could suggest that users are interested in a translation. Additional exploratory in person research would be needed to verify this claim.
 
+#### Search page
+One big feature about the Rently website is the search page and its search engine. We observe less interactions than the home page, as expected:
 
+![](https://i.imgur.com/xwD7a2o.jpg?1)
+
+One is that the diagram above does not show additional search options extended like so:
+
+![](https://i.imgur.com/EhF5NOC.png)
+
+Superimporsing the two images and looking at the hotspot in the search options area, we can see that there is significant traffic there, 25% of the total traffic specifically. An additional 25% of the interactions occured with the navigation bar and the remaining in various places the majority of which in the results area. 
+
+Given the following, the search page is achieves its goal of enticing users to make searches, though, some design changes could increase interaction to the search options. Automatically expending the search options could increase this.
+
+#### Listing page
+
+#### Login page
+The login page is relatively straightfoward with only the central box with different social providers:
+
+![](https://i.imgur.com/iAbBD5X.jpg)
+
+37% of users interacted with the Google provider. Being the first option, its position is already optimal. Had the most popular provider been another, the design would need to change accordingly. 20% of users interacted with the "Back" button redirecting to the home page, once again showing the effectiveness of the design. Wether users are willing to login or not is another matter, though, those that do not wish to login can quickly cycle back to the home page. 
+
+However, much like before, 18% of the interaction occured on the meta navigation bar showing users' great intrest in it. Perhaps those that did not interact with it on the home page noticed it on the login page. Removing the meta navigation bar altogether from this page could draw attention elsewhere.
+
+#### Account page
 
 ### Conclusion
 Additional exploratory testing needed to validate some claims.

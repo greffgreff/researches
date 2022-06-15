@@ -15,6 +15,6 @@ Unlike the IP, the GP is documented in terms of LOs:
 [GP Organisation](https://github.com/hummusteam)
 
 ### DOT framwork researches
-[JWTs](https://github.com/greffgreff/semester-content/blob/main/blockchain-technology.md)
+[JWTs](https://github.com/greffgreff/semester-content/blob/main/jwt.md)
 
 [UX Testing](https://github.com/greffgreff/semester-content/blob/main/ux-testing.md)

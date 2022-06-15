@@ -5,9 +5,7 @@
 ### Individual project
 There are 6 different repositories, 1 NextJS frontend and 5 Springboot backends, each with their own documentation. All documentation for the IP can be accessed here: 
 
-[Documentation](https://github.com/rently-io/.github/tree/main/profile)
-
-[IP Organisation](https://github.com/rently-io)
+[IP Organisation and Documentation](https://github.com/rently-io)
 
 ### Group project
 Unlike the IP, the GP is documented in terms of LOs: 

@@ -1,14 +1,20 @@
 # Protfolio
 
-## Individual Project
-[doc](https://github.com/rently-io/.github/tree/main/profile),
-[organisation](https://github.com/rently-io)
+### Individual project
+There are 6 different repositories, 1 NextJS frontend and 5 Springboot backends, each with their own documentation. All documentation for the IP can be accessed here: 
 
-### Researches
-[blockchain (security)](https://github.com/greffgreff/semester-content/blob/main/blockchain-technology.md),
-[techincal debt](https://github.com/greffgreff/semester-content/blob/main/technical-debt.md)
+[Documentation](https://github.com/rently-io/.github/tree/main/profile)
 
-## Group Project
-[doc](https://github.com/greffgreff/semester-content/blob/main/group-project.md),
-[organisation](https://github.com/hummusteam),
-[front](https://github.com/hummusteam/HummusFront)
+[IP Organisation](https://github.com/rently-io)
+
+### Group project
+Unlike the IP, the GP is documented in terms of LOs: 
+
+[Learning Outcomes](https://github.com/greffgreff/semester-content/blob/main/group-project.md)
+
+[GP Organisation](https://github.com/hummusteam)
+
+### DOT framwork researches
+[JWTs](https://github.com/greffgreff/semester-content/blob/main/blockchain-technology.md)
+
+[UX Testing](https://github.com/greffgreff/semester-content/blob/main/ux-testing.md)

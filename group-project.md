@@ -86,8 +86,36 @@ https://www.atlassian.com/agile/scrum/standups
 
   Given that this project was conducted using Agile Scrum, requirements may change and may be added according to feedback and progress of the project. There were times where I had the opportunity with the team to formulate prototypes for requirements that needed rethinking for the client. 
 
-  For instance, one such occasion presented itself when customer session management need implementation. In an exchange email, we discussed...
+  For instance, one such occasion presented itself when customer session management need implementation. In an exchange email, we discussed on how session initialization was going to be made:
+  
+  Email sent:
+  <p align="center">
+    <img src="https://i.imgur.com/V8b8wGw.png" width=500 />
+  </p>
+  
+  Response:
+  <p align="center">
+    <img src="https://i.imgur.com/Xm4j0Q7.png" width=500 />
+  </p>
 
+  On the subject of UI design, I conducted UX testing research directly on my website's design using a tool called Hotjar. With the addition of datasets, this tool generated these heatmap:
+  
+  <p align="center">
+    <img src="https://i.imgur.com/38AUB0l.png" width=400 />
+    <img src="https://i.imgur.com/bMkoB62.png" width=400 />
+  </p>
+  
+  Those designs were brainstormed and conceptualised using Figma:
+  
+  <p align="center">
+    <img src="https://i.imgur.com/ADfZeXQ.jpg" width=400 />
+    <img src="https://i.imgur.com/b8atQSi.png" width=400 />
+  </p>
+  
+  More information regarding my findings can be found on the research [here](https://github.com/greffgreff/semester-content/blob/main/ux-testing.md).
+  
+  Finally, in regards to software architectural design, I made a C4 model 
+  
   <br />  
 </details>
 

@@ -131,6 +131,8 @@ https://www.atlassian.com/agile/scrum/standups
   I worked exclusively on the frontend for the group project, however, communication between the frontend and the backend was tightly maintained all throughout the project in standups and standdowns. It is a fullstack application conducted in Agile Scrum afterall.
 
   > I offset my lack in involvement in the backend in the group project with my individual project, where I spent most of my time building a restful API using Spring Boot.
+  
+  Additionally, using the DOT framework, I've done research on things related to the context of my project, inlucing research on [JWT](https://github.com/greffgreff/semester-content/blob/main/jwt.md) where I used literary study, pro and con comparisons, and available product analysis as research methods, and [UX testing research](https://github.com/greffgreff/semester-content/blob/main/ux-testing.md) where I used basic data analysis, observation, and usability test. 
 
   <br />  
 </details>

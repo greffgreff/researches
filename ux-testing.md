@@ -76,7 +76,7 @@ From the unmonitored interations of users on the website, there are still a numb
 [Mouse movement revealing personality](https://cpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/d/1690/files/2017/01/MouseTracking_Personality_Preprint.pdf)
 
 ### DOT framework research methods relevant
-[Data analysis](https://ictresearchmethods.nl/Data_analytics)
+[Basic Data analysis](https://ictresearchmethods.nl/Data_analytics)
 
 [Usability test](https://ictresearchmethods.nl/Usability_testing)
 

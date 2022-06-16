@@ -3,7 +3,7 @@
 <br />
 
 ### Introduction
-This research aims to understand how authorization works with json web tokens and identify wether they are suitale in the context of Rently's backend. To achieve this, the research was done through a combination of *literary study*, *pro and con compariosons*, and *available product analysis*.
+This research aims to understand how authorization works with json web tokens and identify wether they are suitale in the context of Rently's backend. To achieve this, the research was done through a combination of *literary study*, *pro and con comparisons*, and *available product analysis*.
 
 At the end of this research, we will have answered: **Are JWTs suitable for Rently?**. To first answer this question, we answer:
 1. What are Json Web Tokens?

@@ -66,12 +66,31 @@ https://www.atlassian.com/agile/scrum/standups
   <summary>LO5: Cultural differences and ethics</summary>
   <br />
 
-> Recognize:  Recognition is based on theoretically substantiated awareness of cultural differences and ethical aspects in software engineering.
-> 
-> Take into account:
-> - Adapt your communication, working, and behavior styles to work with other developers from different cultures; 
-> - Address one of the standard Programming Ethical Guidelines (e.g., ACM Code of Ethics and Professional Conduct) in your work. 
-
+  To best showcase this learning outcome, I discuss my personal experience with working with people of other traditional and cultural backgrounds and other events in my life. 
+  
+  Cultural clusters, in my own words, are a set of personality and behavioural traits that I believe are revealed from ones self and others anywhere, including during work. There are three cultural clusters, linear-active, multi-active, and reactive. From the [material](https://fhict.instructure.com/courses/12075/pages/group-management-can-you-work-with-people-from-other-cultures) on Canvas and the presentation cultural clusters:
+  
+  Linear-active — A person introverted, quiet, and likes privacy. He plans ahead, accepts favours reluctantly, limited body language, and is brief on telephone.
+  Multi-active — A person extroverted, impatient, inquisitive, and talkative. He seeks favours. Speaks with his body.
+  Reactive — Introvert, patient, silent, respectful, good listener. Doesn’t interrupt, subtle body language. summarises well, must not lose face, avoids confrontation.
+  
+  While it is not a perfect match, I can categories myself in-between the Reactive and Linear-active categories. 
+  I am introverted, prefer to keep conversations on phones short and sweet, and appreciates privacy. There are traits that I can see myself with when working with others. I like to see myself as a patient person. Throughout the semester, I found myself helping others for long hours since I like helping others. 
+  
+  To me it seemed logical to help others with things I was knowledgeable in. However, I was surprised to see a person much more knowledgable than me becoming frustrated with the same person I helped after a couple of minutes of explanation. Perhaps this person was part of the Multi-active category. 
+  
+  > Please note that I don’t categories people. This was only part of this discussion and I am making gross generalisations. 
+  
+  Taking a step back, according to a diagram on the presentation on cultural types, between Reactive and Linear-active types, nationalities that more closely match Reactive type include Northern-European countries (U.K., Sweden, Finland) while Southern-Asian countries match Linear-active type. Interestingly enough, this correlates more or less with the places I have lived in (China and France).
+  
+  I can also say with confidence that France, my country of origin, is well placed between Linear-active and Multi-active types. From experience, French people have more difficulty summarising things and I found that true for myself as well. 
+  
+  French people explain things with a curtain of bureaucratic and redundant curtesy. While I like helping others, I am afraid of explaining things with a lack of manner, what would another French person expects. As a results explanations are often long and the point necessarily takes time to get across at times.
+  
+  Additionally, being a student slowly nearing professional life, I have learned to rely on others more frequently during projects. Among other things under the [ACM Code of Ethics](https://www.acm.org/code-of-ethics) including 1.2 Avoid Harm and 1.5 Respecting others, being 1.3 Honest and Trustworthy more perhaps the most important characteristics in letting others rely on you. 
+  
+  One of the things I improved upon is my transparency during stand ups. Occasionally, I am unable to complete certain tasks on time. Mentioning this clearly to others during meetings is crucial in letting others know not only how much work is needed still but also how much you can handle alone as a developer. Since the project relies on Agile Scrum, this kind of setbacks are lenient after all.
+  
   <br />  
 </details>
 

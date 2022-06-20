@@ -84,7 +84,11 @@ Some takeways including things that Agile Scrum embraces are:
   
   Task priority is managed with slack meaning that in the event that requirements cannot be delivered on time, low priority task are dropped to further the progress of the project.
   
-  With Xp, there is a strong emphasis on testing and building times. 10 minutes is given to a project for build and run all tests. The idea behind the 10 minute mark is to build and run tests frequently and perhaps perform regression testing with it. Any longer could lead to much less frequent builds and ultimately fewer tests ran overall.
+  Another major difference between Scrum and Xp is Xp's emphasis on some coding aspects. With Xp, code needs to be ran and tested frequently. 10 minutes is given to a project for building and run all tests. The idea behind the 10 minute mark is to build and run tests frequently and perhaps perform regression testing with it. Any longer could lead to much less frequent builds and ultimately fewer tests ran overall. Additionally, Xp encourages test driven developement.
+  
+  We've seen roles in Scrum, including the scrum master, the product owner, and the development team. In Extreme Programming, roles include the development team, a customer, and a tracker. Much like a scrum master, the role of the tracker is to keep a log of requirements within iterations. However, a tracker is optional, unlike a scrum master which is a requirement in scrum.
+  
+  In short, Xp and Scrum are similar in that they both heavily rely on communication and human interaction in general. However, Xp has much more concise constraints when it comes to the use of space. Additionally, Extreme Programming goes deeply into who coding is managed (TDD, pair-programming) while Scrum is much looser in that regard. 
   
   <br />  
 </details>

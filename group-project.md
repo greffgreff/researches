@@ -38,25 +38,53 @@ From there, customers can see and select dishes orgranized in categories, can pl
 <details>
   <summary>LO3: Agile method</summary>
   <br />
+  
+  <h3>What is Agile?</h3>
+  
+  Agile is a work methodology to project management and product development. It is a set of ideals that focuses on human interactions over process and tools. In other words, Agile methodologies embraces the people working on a project and suggests that humans are the main determining factor in the success of a project. As a result, communication between stakeholders is at the core of Agile. Rather than communicating depending on the need, change, or issue on a given feature or requirement, communication takes place regularly, regardless of needs.  
 
-> You are aware of most popular agile methods and their underlying agile principles. You are able to implement the process of your software project according to a chosen methodology.
+  <h3>What is Agile Scrum?</h3>
   
-  Agile Scrum 
+  Agile Scrum is considered to be a simple framework to install in your team. Its purpose is to deal with unpredictable and changing functional and non-functional requirements in an IT project. An Agile Scrum project is completed in interations of sprints of between 1 to 4 weeks, where each spring follows a set cycle of events. Once the a set of requirements have identified and a first product backlog set:
   
-  What is agile? It embraces:
-  - Collaboration between the development team and between the dev team and the customer interactions
-  - Continous software dev
+- Planning phase:
+  - A Sprint Planning is made to kick off a sprint.
+  - A Sprint Backlog is made in which are defined the things that need to be delivered and how
+  
+- Implementation phase: Afterwards, on a daily basis the team meets in what is known as Daily Scrum, where each team member comes fowards with the things he did and needs to do still.
+  
+- Reviewing phase: With all external stakeholder, including the product owner, the developments team discusses what has been achieved during the sprint. The team discusses any change (business or otherwise) that needs to be reflected in the product's requirements and it's backlog is changed accordingly. The review is carried out once at the end of a sprint.
+  
+- Retrospetive: Optionally, the team conduct a retrospective at the end of sprint after the Reviewing phase. Unlike the reviw, a retrospective is intended to be a discussion among the development team about anything, both technical and non-technical. 
+  
+Some takeways including things that Agile Scrum embraces are:
+  - Collaboration between the development team members and between the development team and the customer interactions
+  - Continous software implementation
   - Quickly respond to change in software requirements
+  
+  <h3>How we applied it?</h3>
   
   We settled on using shortcut.com to manage our project with user stories, epics, and smaller tasks. Throughout the project, the team and I closely followed and manage the our backlog on the platform. 
 
-  The project unfolded in a total of 5 sprints of a few weeks each. At the start of each new sprint, the development team and the product owners conducted sprint reviews, where the team first showcases the the implementation of new features followed by the stakeholder's feedback. Reviews concluded with discussions about things that have been completed and things that still need attention for the next sprint.
+  The project unfolded in a total of 5 sprints of a few weeks each. At the start of each new sprint, the development team and the product owners conducted sprint reviews, where the team first showcases the the implementation of new features followed by the stakeholder's feedback. Reviews concluded with discussions about things that have been completed and things that still need attention for the next sprint and begin work on spring planning.
   
   Scrum roles were defined at the beginning of the project to each memeber of the team, including scrum master, note takers, time keepers. Those roles were cycled between ourselves throughout the project. 
   
-  Every project day, Mondays and Tuesdays, the team had standups, where team members took turn on the things he completed and what he has planned for the day.
+  Every project day, Mondays and Tuesdays, the team had standups, where team members took turn on the things he completed and what he has planned for the day. Although infrequent, given that not everyone has the same level of knowledge in the team, work occasionally was allocated to someone else. These decisions would take place during the standups.
   
-https://www.atlassian.com/agile/scrum/standups
+  <h3>Agile alternatives?</h3>
+  
+  Another Agile methodology in the field of software closely compared to Scrum is Xp or extreme programming. Much like Scrum, the Xp framework values communication and simplicity. 
+  
+  In fact, with Xp, communication is taken to another level, where software tasks are carried out in pairs on one machine. The idea is that the more brain power is focused on solving a problem in the code, the higher quality the solution. 
+  
+  One of the things that Xp values a lot is the use of space in a work environment. The development team is expected to work closely with eachother, sometimes on the same table even with no obstructions between memebers.
+  
+  Rather than opperating in iterations of 2 to 4 weeks, in sprints, Xp opperates in iterations of 1 week. Every week, the team meets to dicuss the progress of a given project to date, much like sprint reviews. 
+  
+  Task priority is managed with slack meaning that in the event that requirements cannot be delivered on time, low priority task are dropped to further the progress of the project.
+  
+  With Xp, there is a strong emphasis on testing and building times. 10 minutes is given to a project for build and run all tests. The idea behind the 10 minute mark is to build and run tests frequently and perhaps perform regression testing with it. Any longer could lead to much less frequent builds and ultimately fewer tests ran overall.
   
   <br />  
 </details>
@@ -181,7 +209,7 @@ https://www.atlassian.com/agile/scrum/standups
   
   Additionally, using the DOT framework, I've done research on things related to the context of my project, inlucing research on [JWT](https://github.com/greffgreff/semester-content/blob/main/jwt.md) where I used literary study, pro and con comparisons, and available product analysis as research methods, and [UX testing research](https://github.com/greffgreff/semester-content/blob/main/ux-testing.md) where I used basic data analysis, observation, and usability test.
 
-  Also, communication between various stakeholders in the project was done in a professional manner. Please see email under "Requirements and Design" as proof.
+  Also, communication between various stakeholders in the project was done in a professional manner. Please see email under "Requirements and Design" as proof. The product owners were satisfied enough with the product that they invited us at their facility at Herleen to present our work to other collegues.
   
   <br />  
 </details>
